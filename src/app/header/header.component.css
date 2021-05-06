@@ -1,0 +1,9 @@
+.image_logo {
+    width: 20px;
+    height: 20px
+}
+
+.header {
+    background-color: rgb(36, 32, 32);
+    background-image: linear-gradient(to right, black, white );
+}
