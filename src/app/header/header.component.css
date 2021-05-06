@@ -4,6 +4,9 @@
 }
 
 .header {
-    background-color: rgb(36, 32, 32);
-    background-image: linear-gradient(to right, black, white );
+    background-image: linear-gradient(to right, black, red);
+}
+
+.font_color{
+    color: white;
 }

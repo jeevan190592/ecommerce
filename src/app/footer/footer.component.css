@@ -1,0 +1,8 @@
+.footer{
+    background-color: darkolivegreen;
+    position:fixed;
+    margin-top:auto;
+    padding-left: 10px;
+    bottom: 0;
+    background-image: linear-gradient(to right, black, red );
+}
