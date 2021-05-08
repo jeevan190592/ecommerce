@@ -4,5 +4,14 @@
     margin-top:auto;
     padding-left: 10px;
     bottom: 0;
-    background-image: linear-gradient(to right, black, red );
+    background-image: linear-gradient(to right, black, lightyellow );
+    height: 30px;
 }
+
+
+.font {
+    color: cornsilk;
+    font-size: 10px;
+    padding: 5px;
+}
+

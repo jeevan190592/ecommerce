@@ -1,0 +1,29 @@
+.slideshow {
+    color: cornsilk;
+    margin-top: -10px;
+    padding-top: 5%;
+    
+}
+
+.categories {
+    padding: 5%;
+
+}
+
+.fontcolor {
+    color: black;
+    font-weight: bolder;
+}
+
+.text-offer {
+
+    text-align: right;
+}
+
+.image-offer{
+    padding-bottom: 5%;
+}
+.font1 {
+    font-weight: lighter;
+    font-style:italic;
+}
